@@ -1,10 +1,9 @@
 # Whatsapp Chatbot
 
-This project is a whatsapp bot that uses OpenAI's ChatGPT to respond to user inputs. To use ChatGPT, simply type `!gpt` followed by your prompt, and the bot will generate a response.
+This project is a whatsapp bot that uses OpenAI's ChatGPT to respond to user inputs. To use ChatGPT, simply type `shalom` followed by your prompt, and the bot will generate a response.
 
-You can also disable the `!gpt` Prefix and send all messages to ChatGPT instantly.
+You can also disable the `shalom` Prefix and send all messages to ChatGPT instantly.
 
-![Example](https://i.imgur.com/Za4s6aR.png)
 
 ## Requirements
 
@@ -35,7 +34,7 @@ PREFIX_ENABLED=true
 
 To use the bot, simply send a message with `!gpt` command followed by your prompt. For example:
 
-`!gpt What is the meaning of life?`
+`shalom What is the meaning of life?`
 
 The bot only responds to messages that are received by you, not sent.
 
